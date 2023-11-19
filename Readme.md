@@ -35,4 +35,4 @@ Projetado por [Nathally Souza](https://github.com/nathyts). Finalização por [L
 
 [x] Os atributos name e accountNumber não podem ser alterados internamente ou externamente
 
-[ ] Criar instancias para cada um dos tipos de conta no app.ts e executar os métodos possíveis.
+[x] Criar instancias para cada um dos tipos de conta no app.ts e executar os métodos possíveis.
